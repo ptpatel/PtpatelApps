@@ -9,12 +9,29 @@
       "appBundleAndroid": "com.music.instrumental.harmonium"
     },
     {
+      "appName": "Baglama Beats",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/17/bf/7e17bfce-82a5-c06c-2eac-b06a69614c92/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.baglama",
+      "appBundleAndroid": "com.music.instrumental.baglama"
+    },
+    {
+      "appName": "Xylophone Melody Mallets",
+      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/66/01/c4/6601c4f3-418a-c0eb-9e50-bc3f32b846ff/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.xylophone",
+      "appBundleAndroid": "com.music.instrumental.xylophone"
+    },
+
+    {
       "appName": "Piano Latest",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.independenceapps.piano",
       "appBundleIos": "com.ptpatel.piano",
-      "appBundleAndroid": "com.independenceapps.piano"
+      "appBundleAndroid": "com.music.instrumental.piano"
     },
     {
       "appName": "Tabla - Musical Instrument ",
@@ -22,24 +39,9 @@
       "iosUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
       "androidUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
       "appBundleIos": "",
-      "appBundleAndroid": "in.bansalindia.beautifulnaturewallpaper"
+      "appBundleAndroid": "com.music.instrumental.tabla"
     },
-    {
-      "appName": "Math Learner: Easy Maths",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/17/bf/7e17bfce-82a5-c06c-2eac-b06a69614c92/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Mental Disorders - Diseases",
-      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/66/01/c4/6601c4f3-418a-c0eb-9e50-bc3f32b846ff/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
+
     {
       "appName": "Virtual Lighter New",
       "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/dc/7b/86/dc7b86ba-9df5-f6be-168f-d9f376787c6a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
