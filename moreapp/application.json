@@ -4,7 +4,7 @@
       "appName": "Harmonium - Real Sounds",
       "appIconUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/5c/bc/ea5cbc1c-2e12-adb7-1584-8247b6588970/source/1024x1024.jpg",
       "iosUrl": "https://apps.apple.com/us/app/harmonium-real-sounds/id1468096369",
-      "androidUrl": "https://apps.apple.com/us/app/harmonium-real-sounds/id1468096369",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.harmonium",
       "appBundleIos": "com.ptpatel.harmonium",
       "appBundleAndroid": "com.music.instrumental.harmonium"
     },
@@ -29,7 +29,7 @@
       "appName": "Piano Latest",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.independenceapps.piano",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.piano",
       "appBundleIos": "com.ptpatel.piano",
       "appBundleAndroid": "com.music.instrumental.piano"
     },
@@ -37,7 +37,7 @@
       "appName": "Tabla - Musical Instrument ",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/72/6f/e3726f3f-8d96-562b-aac3-e723e4d88459/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
-      "androidUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tabla",
       "appBundleIos": "",
       "appBundleAndroid": "com.music.instrumental.tabla"
     },
