@@ -26,7 +26,7 @@
     },
 
     {
-      "appName": "Piano Latest",
+      "appName": "Piano Magic pro",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.piano",
@@ -40,55 +40,6 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tabla",
       "appBundleIos": "",
       "appBundleAndroid": "com.music.instrumental.tabla"
-    },
-
-    {
-      "appName": "Virtual Lighter New",
-      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/dc/7b/86/dc7b86ba-9df5-f6be-168f-d9f376787c6a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Name Anniversary Cake",
-      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b0/2c/49/b02c4902-95e5-dbf9-3bf9-175f24dfc766/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Spider Smasher Game",
-      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/05/59/c8/0559c86b-d436-a05f-0251-4e0db64a3f59/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Ant Smasher Game",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/c0/15/a6/c015a613-38e1-d023-1fc7-c2b4bd1b1dc3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Akbar Birbal - Hindi Stories",
-      "appIconUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/77/68/7d776874-a810-6865-5976-cf0745a91636/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Latest Hindi Kahaniya",
-      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/16/74/5b/16745b21-dd81-139b-901b-482572b748f2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
     }
   ]
 }
