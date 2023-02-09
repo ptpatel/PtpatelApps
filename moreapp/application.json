@@ -24,21 +24,20 @@
       "appBundleIos": "com.music.instrumental.xylophone",
       "appBundleAndroid": "com.music.instrumental.xylophone"
     },
-
     {
       "appName": "Piano Magic pro",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.piano",
+      "androidUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
       "appBundleIos": "com.ptpatel.piano",
       "appBundleAndroid": "com.music.instrumental.piano"
     },
     {
-      "appName": "Tabla - Musical Instrument ",
+      "appName": "Tabla - Musical Instrument",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/72/6f/e3726f3f-8d96-562b-aac3-e723e4d88459/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tabla",
-      "appBundleIos": "",
+      "androidUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
+      "appBundleIos": "com.ptpatel.tabla",
       "appBundleAndroid": "com.music.instrumental.tabla"
     }
   ]
