@@ -11,7 +11,7 @@
     {
       "appName": "Baglama Beats",
       "appIconUrl": "https://play-lh.googleusercontent.com/p_PIasZG1Y-CzjpJiWOZfV2MDfDQQo-UYcEqp-K6m9LP7r4F-AezmCuSyCQpZc8Rh1I=w512-rw",
-      "iosUrl": "",
+      "iosUrl": "https://apps.apple.com/us/app/baglama-beats/id1670043577",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.baglama",
       "appBundleIos": "com.music.instrumental.baglama",
       "appBundleAndroid": "com.music.instrumental.baglama"
@@ -39,14 +39,6 @@
       "androidUrl": "",
       "appBundleIos": "com.ptpatel.tabla",
       "appBundleAndroid": "com.music.instrumental.tabla"
-    },
-    {
-      "appName": "Banjo Tuner Rhythm",
-      "appIconUrl": "",
-      "iosUrl": "",
-      "androidUrl": "",
-      "appBundleIos": "com.music.instrumental.banjo",
-      "appBundleAndroid": "com.music.instrumental.banjo"
     },
     {
       "appName": "Banjo Tuner Rhythm",
