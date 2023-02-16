@@ -1,0 +1,23 @@
+{
+  "package_name": "com.music.instrumental.harmonium",
+  "app_version": "1",
+  "is_ad_show": true,
+  "admob_appid": "",
+  "admob_interid": "/6499/example/interstitial",
+  "admob_bannerid": "/6499/example/banner",
+  "admob_nativeid": "/6499/example/native",
+  "admob_appopenid": "/6499/example/app-open",
+  "click_appopen_id": "/6499/example/app-open",
+  "admob_reward": "/6499/example/reward",
+  "fb_inter_id": "",
+  "fb_banner_id": "",
+  "fb_native_id": "",
+  "fb_native_banner_id": "",
+  "inter_count": "3",
+  "ad_splash": "1",
+  "ad_inter": "1",
+  "ad_appopen": "1",
+  "ad_native": "1",
+  "ad_banner": "1",
+  "privacy_url": ""
+}

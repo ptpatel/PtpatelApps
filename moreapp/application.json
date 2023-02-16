@@ -12,7 +12,7 @@
       "appName": "Baglama Beats",
       "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/17/bf/7e17bfce-82a5-c06c-2eac-b06a69614c92/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
       "iosUrl": "",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.baglama",
       "appBundleIos": "com.music.instrumental.baglama",
       "appBundleAndroid": "com.music.instrumental.baglama"
     },
