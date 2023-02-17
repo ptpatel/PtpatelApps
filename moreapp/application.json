@@ -20,7 +20,7 @@
       "appName": "Xylophone Melody Mallets",
       "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4c/90/8b/4c908b28-323c-8365-6061-b464a145762f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/xylophone-melody-mallets/id1481303232",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.xylophone",
       "appBundleIos": "com.music.instrumental.xylophone",
       "appBundleAndroid": "com.music.instrumental.xylophone"
     },
@@ -36,7 +36,7 @@
       "appName": "Tabla - Musical Instrument",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/72/6f/e3726f3f-8d96-562b-aac3-e723e4d88459/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/tabla-musical-instrument/id1468090910",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tabla",
       "appBundleIos": "com.ptpatel.tabla",
       "appBundleAndroid": "com.music.instrumental.tabla"
     },
