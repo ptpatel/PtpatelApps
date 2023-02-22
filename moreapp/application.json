@@ -42,11 +42,27 @@
     },
     {
       "appName": "Banjo Tuner Rhythm",
+      "appIconUrl": "https://play-lh.googleusercontent.com/bEZw_f2x4TgmM9MK4NTLSITg78tcDz8eC3lUCxJ8r84xdsWmaQPgM6chNbDD-BiuB-cL=w512-rw",
+      "iosUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.banjo",
+      "appBundleIos": "com.music.instrumental.banjo",
+      "appBundleAndroid": "com.music.instrumental.banjo"
+    },
+    {
+      "appName": "Real Drum Beat Master",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
-      "appBundleIos": "com.music.instrumental.banjo",
-      "appBundleAndroid": "com.music.instrumental.banjo"
+      "appBundleIos": "com.music.instrumental.drumbeat",
+      "appBundleAndroid": "com.music.instrumental.drumbeat"
+    },
+    {
+      "appName": "Qanun Professional Instrument",
+      "appIconUrl": "",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.qanun",
+      "appBundleAndroid": "com.music.instrumental.qanun"
     }
   ]
 }
