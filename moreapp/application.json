@@ -43,7 +43,7 @@
     {
       "appName": "Banjo Tuner Rhythm",
       "appIconUrl": "https://play-lh.googleusercontent.com/bEZw_f2x4TgmM9MK4NTLSITg78tcDz8eC3lUCxJ8r84xdsWmaQPgM6chNbDD-BiuB-cL=w512-rw",
-      "iosUrl": "",
+      "iosUrl": "https://apps.apple.com/us/app/banjo-tuner-rhythm/id1672259261",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.banjo",
       "appBundleIos": "com.music.instrumental.banjo",
       "appBundleAndroid": "com.music.instrumental.banjo"
@@ -51,7 +51,7 @@
     {
       "appName": "Real Drum Beat Master",
       "appIconUrl": "https://play-lh.googleusercontent.com/r4uVwMrcXJO3T49ku7yx-gs--EQLYkOx1xqM-fT3OotCXypyZ-tJ1jNWFuf0zBOSLQ=w512-h480-rw",
-      "iosUrl": "",
+      "iosUrl": "https://apps.apple.com/us/app/real-drum-beat-master/id1673310646",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.drumbeat",
       "appBundleIos": "com.music.instrumental.drumbeat",
       "appBundleAndroid": "com.music.instrumental.drumbeat"
@@ -63,6 +63,14 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.qanun",
       "appBundleIos": "com.music.instrumental.qanun",
       "appBundleAndroid": "com.music.instrumental.qanun"
+    },
+    {
+      "appName": "Saxophone Professional Master",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c4/88/7cc48834-e59c-e72e-7e91-240576a8ef37/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/saxophone-professional-master/id6445838710",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.saxophone",
+      "appBundleAndroid": "com.music.instrumental.saxophone"
     }
   ]
 }
