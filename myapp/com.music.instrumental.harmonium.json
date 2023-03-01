@@ -16,7 +16,7 @@
     "ad_appopen": "1",
     "ad_native": "1",
     "ad_banner": "1",
-    "ad_reward": "1",
+    "ad_rewardInter": "1",
     "privacy_url": ""
   },
   "ios": {
@@ -36,7 +36,7 @@
     "ad_appopen": "1",
     "ad_native": "1",
     "ad_banner": "1",
-    "ad_reward": "1",
+    "ad_rewardInter": "1",
     "privacy_url": ""
   }
 }
