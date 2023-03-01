@@ -71,6 +71,38 @@
       "androidUrl": "",
       "appBundleIos": "com.music.instrumental.saxophone",
       "appBundleAndroid": "com.music.instrumental.saxophone"
+    },
+    {
+      "appName": "Kalimba",
+      "appIconUrl": "",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.kalimba",
+      "appBundleAndroid": "com.music.instrumental.kalimba"
+    },
+    {
+      "appName": "Electric Drum",
+      "appIconUrl": "",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.kalimba",
+      "appBundleAndroid": "com.music.instrumental.kalimba"
+    },
+    {
+      "appName": "Guitar",
+      "appIconUrl": "",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.guitar",
+      "appBundleAndroid": "com.music.instrumental.guitar"
+    },
+    {
+      "appName": "Violin",
+      "appIconUrl": "",
+      "iosUrl": "",
+      "androidUrl": "",
+      "appBundleIos": "com.music.instrumental.violin",
+      "appBundleAndroid": "com.music.instrumental.violin"
     }
   ]
 }
