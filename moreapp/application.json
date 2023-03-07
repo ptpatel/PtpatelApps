@@ -73,7 +73,7 @@
       "appBundleAndroid": "com.music.instrumental.saxophone"
     },
     {
-      "appName": "Kalimba",
+      "appName": "Kalimba Soul",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
@@ -81,15 +81,15 @@
       "appBundleAndroid": "com.music.instrumental.kalimba"
     },
     {
-      "appName": "Electric Drum",
+      "appName": "Electric Rhythm Pad",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
-      "appBundleIos": "com.music.instrumental.kalimba",
-      "appBundleAndroid": "com.music.instrumental.kalimba"
+      "appBundleIos": "com.music.instrumental.electricpad",
+      "appBundleAndroid": "com.music.instrumental.electricpad"
     },
     {
-      "appName": "Guitar",
+      "appName": "Guitar Guru",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
@@ -97,7 +97,7 @@
       "appBundleAndroid": "com.music.instrumental.guitar"
     },
     {
-      "appName": "Violin",
+      "appName": "Violin Notes",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
