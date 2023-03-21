@@ -74,30 +74,30 @@
     },
     {
       "appName": "Kalimba Soul",
-      "appIconUrl": "",
-      "iosUrl": "",
-      "androidUrl": "",
+      "appIconUrl": "https://play-lh.googleusercontent.com/8g_MopCQBI9eEojzKWIHdIvYwdY8Tc4pcvX6YxhGCNzVyKl3W_bC5Jealz-iMP_FoNMK=w512-h480-rw",
+      "iosUrl": "https://apps.apple.com/us/app/kalimba-soul/id6446102698",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.kalimba",
       "appBundleIos": "com.music.instrumental.kalimba",
       "appBundleAndroid": "com.music.instrumental.kalimba"
     },
     {
       "appName": "Electric Rhythm Pad",
-      "appIconUrl": "",
+      "appIconUrl": "https://play-lh.googleusercontent.com/-s3UCiHXG9H0vqghXXtWftrUPDH_XB4wGyOOl57q_E1m_phovd2XGW9c8FPNu1np84Y=w512-h480-rw",
       "iosUrl": "",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.electricpad",
       "appBundleIos": "com.music.instrumental.electricpad",
       "appBundleAndroid": "com.music.instrumental.electricpad"
     },
     {
-      "appName": "Guitar Guru",
-      "appIconUrl": "",
-      "iosUrl": "",
+      "appName": "Guitar Master Tune",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/e4/63/e7e46304-7362-f2fc-92da-f5698fe1d63a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/guitar-master-tune/id6446103128",
       "androidUrl": "",
       "appBundleIos": "com.music.instrumental.guitar",
       "appBundleAndroid": "com.music.instrumental.guitar"
     },
     {
-      "appName": "Violin Notes",
+      "appName": "Violin Notes Pro",
       "appIconUrl": "",
       "iosUrl": "",
       "androidUrl": "",
