@@ -92,15 +92,15 @@
       "appName": "Guitar Master Tune",
       "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/e4/63/e7e46304-7362-f2fc-92da-f5698fe1d63a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/guitar-master-tune/id6446103128",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.guitar",
       "appBundleIos": "com.music.instrumental.guitar",
       "appBundleAndroid": "com.music.instrumental.guitar"
     },
     {
       "appName": "Violin Notes Pro",
-      "appIconUrl": "",
-      "iosUrl": "",
-      "androidUrl": "",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/violin-notes-pro/id6446103033",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.violin",
       "appBundleIos": "com.music.instrumental.violin",
       "appBundleAndroid": "com.music.instrumental.violin"
     }
