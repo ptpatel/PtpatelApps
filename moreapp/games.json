@@ -1,0 +1,28 @@
+{
+  "application": [
+    {
+      "appName": "Mind Maze Brain Games",
+      "appIconUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/61/b3/9a/61b39a5b-5371-6f5d-5652-3f5cf954ceff/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/mind-maze-brain-games/id6445888918",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.mind.maze.braingame",
+      "appBundleIos": "com.mind.maze.braingame",
+      "appBundleAndroid": "com.mind.maze.braingame"
+    },
+    {
+      "appName": "Block Cleaner Puzzle Game",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/58/4c/fc/584cfc9a-ab1c-b8e7-0900-ed8774f17545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/block-cleaner-puzzle-game/id1668535377",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.braingame.blockcleanerpuzzlegame",
+      "appBundleIos": "com.braingame.blockcleanerpuzzlegame",
+      "appBundleAndroid": "com.braingame.blockcleanerpuzzlegame"
+    },
+    {
+      "appName": "Mystery Box Memory Game",
+      "appIconUrl": "https://play-lh.googleusercontent.com/jLoQHRAUdg7AqJ2tQRMWdvmd0FdjP7Qp7brIaz9YQgO90Xr0BwMo6n79bX3j8PhZ_mpz=w1024-h480-rw",
+      "iosUrl": "https://apps.apple.com/us/app/mystery-box-memory-game/id1669219727",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.puzzelgames.mysterybox",
+      "appBundleIos": "com.puzzelgames.mysterybox",
+      "appBundleAndroid": "com.puzzelgames.mysterybox"
+    }
+  ]
+}
