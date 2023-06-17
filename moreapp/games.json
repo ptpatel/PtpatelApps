@@ -23,6 +23,14 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.puzzelgames.mysterybox",
       "appBundleIos": "com.puzzelgames.mysterybox",
       "appBundleAndroid": "com.puzzelgames.mysterybox"
+    },
+    {
+      "appName": "Neon Dots Puzzle Game",
+      "appIconUrl": "https://play-lh.googleusercontent.com/jLoQHRAUdg7AqJ2tQRMWdvmd0FdjP7Qp7brIaz9YQgO90Xr0BwMo6n79bX3j8PhZ_mpz=w1024-h480-rw",
+      "iosUrl": "https://apps.apple.com/us/app/neon-dots-puzzle-game/id6448716458",
+      "androidUrl": "https://play.google.com/store/apps/details?id=in.bansalindia.neondotspuzzel",
+      "appBundleIos": "in.bansalindia.neondotspuzzel",
+      "appBundleAndroid": "in.bansalindia.neondotspuzzel"
     }
   ]
 }

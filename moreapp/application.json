@@ -103,6 +103,23 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.violin",
       "appBundleIos": "com.music.instrumental.violin",
       "appBundleAndroid": "com.music.instrumental.violin"
+    },
+    {
+      "appName": "Flute Melody",
+      "appIconUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b0/68/65b068e1-0867-51ee-92ee-6b656c693797/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/flute-melody/id6450131756",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.flute",
+      "appBundleIos": "com.music.instrumental.flute",
+      "appBundleAndroid": "com.music.instrumental.flute"
+    },
+    {
+      "appName": "Sitar Saga",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
+      "appBundleIos": "com.music.instrumental.sitar",
+      "appBundleAndroid": "com.music.instrumental.sitar"
     }
+
   ]
 }
