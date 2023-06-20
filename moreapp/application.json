@@ -119,7 +119,24 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
       "appBundleIos": "com.music.instrumental.sitar",
       "appBundleAndroid": "com.music.instrumental.sitar"
+    },
+    {
+      "appName": "Accordion Magic",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
+      "appBundleIos": "com.music.instrumental.accordion",
+      "appBundleAndroid": "com.music.instrumental.accordion"
+    },
+    {
+      "appName": "Flamenco Guitar Beat",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
+      "appBundleIos": "com.music.instrumental.flamenco",
+      "appBundleAndroid": "com.music.instrumental.flamenco"
     }
+
 
   ]
 }
