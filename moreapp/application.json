@@ -106,7 +106,7 @@
     },
     {
       "appName": "Flute Melody",
-      "appIconUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b0/68/65b068e1-0867-51ee-92ee-6b656c693797/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/bf/d4/19bfd4ab-6eff-4ee8-3dfb-e103c92b5150/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/flute-melody/id6450131756",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.flute",
       "appBundleIos": "com.music.instrumental.flute",
@@ -114,27 +114,43 @@
     },
     {
       "appName": "Sitar Saga",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/3d/18/433d1804-0fcf-d0c3-06d8-8cdcee84b5c8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/sitar-saga/id6450131669",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
       "appBundleIos": "com.music.instrumental.sitar",
       "appBundleAndroid": "com.music.instrumental.sitar"
     },
     {
       "appName": "Accordion Magic",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/02/b5/cb02b5cf-9163-cbbf-1598-c6e7d925733e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450493704",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.accordion",
       "appBundleIos": "com.music.instrumental.accordion",
       "appBundleAndroid": "com.music.instrumental.accordion"
     },
     {
       "appName": "Flamenco Guitar Beat",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.sitar",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/7c/27/427c277e-be70-399e-c7ff-f325808396f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450493733",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.guitar.flamenco",
       "appBundleIos": "com.music.instrumental.guitar.flamenco",
       "appBundleAndroid": "com.music.instrumental.guitar.flamenco"
+    },
+    {
+      "appName": "Tapping Tambourine",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tambourine",
+      "appBundleIos": "",
+      "appBundleAndroid": ""
+    },
+    {
+      "appName": "Trumpet Maestro",
+      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.trumpet",
+      "appBundleIos": "",
+      "appBundleAndroid": ""
     }
 
   ]
