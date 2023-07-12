@@ -138,19 +138,19 @@
     },
     {
       "appName": "Tapping Tambourine",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/78/ed/e378ed7e-ed46-6725-1617-1ac267bdcf77/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/tapping-tambourine/id6450664960",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.tambourine",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
+      "appBundleIos": "com.music.instrumental.tambourine",
+      "appBundleAndroid": "com.music.instrumental.tambourine"
     },
     {
       "appName": "Trumpet Maestro",
-      "appIconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/06/8c/ed068cd1-2517-feaf-2563-f663664d58e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/id6450131669",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/95/02/6d95027f-73af-e168-37d1-b454c5f9a96c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/trumpet-maestro/id6450781839",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.trumpet",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
+      "appBundleIos": "com.music.instrumental.trumpet",
+      "appBundleAndroid": "com.music.instrumental.trumpet"
     }
 
   ]
