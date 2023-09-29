@@ -151,7 +151,30 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.trumpet",
       "appBundleIos": "com.music.instrumental.trumpet",
       "appBundleAndroid": "com.music.instrumental.trumpet"
+    },
+    {
+      "appName": "Harp Master",
+      "appIconUrl": "https://play-lh.googleusercontent.com/-FRE5iDqaom7NPfkqVsi2GsFS0KDf_cS4er4z05BEitZvoUb0l8QTNU5JzdG--e0PjE=w512-h480-rw",
+      "iosUrl": "https://apps.apple.com/us/app/harp/id6466697952",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.harp",
+      "appBundleIos": "com.music.instrumental.harp",
+      "appBundleAndroid": "com.music.instrumental.harp"
+    },
+    {
+      "appName": "Cello Master Tune",
+      "appIconUrl": "https://play-lh.googleusercontent.com/E_gYtqJZLiSn5JzFOWuB2-S5y4j9hDUttYdMEsw2uAfwfWXxbRPy6YrCakIQTAbetYM=w512-h480-rw",
+      "iosUrl": "https://apps.apple.com/us/app/cello/id6466697975",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.cello",
+      "appBundleIos": "com.music.instrumental.cello",
+      "appBundleAndroid": "com.music.instrumental.cello"
+    },
+    {
+      "appName": "Harmony Hub",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/93/4f/64934f5f-34d5-458b-d507-3ca1b4c4883c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/harmony-hub-pro/id6463854682",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental",
+      "appBundleIos": "com.music.instrumental",
+      "appBundleAndroid": "com.music.instrumental"
     }
-
   ]
 }
