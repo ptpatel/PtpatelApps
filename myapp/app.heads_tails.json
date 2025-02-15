@@ -1,7 +1,7 @@
 {
   "package_name": "app.heads_tails",
   "app_version": "1",
-  "is_ad_show": true,
+  "is_ad_show": false,
   "admob_appid": "",
   "admob_interid": "/21753324030,22798965566/app.heads_tails_Interstitial",
   "admob_bannerid": "/21753324030,22798965566/app.heads_tails_Banner",
@@ -9,7 +9,7 @@
   "admob_appopenid": "/21753324030,22798965566/app.heads_tails_AppOpen",
   "click_appopen_id": "/21753324030,22798965566/app.heads_tails_AppOpen",
   "admob_reward": "/21753324030,22798965566/app.heads_tails_Native",
-  "is_fb_ad_show": true,
+  "is_fb_ad_show": false,
   "fb_inter_id": "667164465066434_667166421732905",
   "fb_banner_id": "667164465066434_667166158399598",
   "fb_native_id": "667164465066434_667166935066187",
