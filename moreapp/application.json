@@ -175,6 +175,38 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental",
       "appBundleIos": "com.music.instrumental",
       "appBundleAndroid": "com.music.instrumental"
+    },
+    {
+      "appName": "Clarinet Pro - Professional",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/fc/85/56fc85ff-a36d-67a1-054b-36cdc6405e67/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/clarinet-pro-professional/id6470706267",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.clarinet",
+      "appBundleIos": "com.music.instrumental.clarinet",
+      "appBundleAndroid": "com.music.instrumental.clarinet"
+    },
+    {
+      "appName": "Mandolin Master",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/e0/3b/d3e03b63-f993-01bf-2d57-d698ab748b1e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/mandolin-master/id6470176562",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.mandolin",
+      "appBundleIos": "com.music.instrumental.mandolin",
+      "appBundleAndroid": "com.music.instrumental.mandolin"
+    },
+    {
+      "appName": "Bongo Drums Master",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/51/a5/4451a5bf-ffd1-2ae6-4ab2-bff554e862ae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/bongo-drums-master/id6466697868",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.bongodrum",
+      "appBundleIos": "com.music.instrumental.bongodrum",
+      "appBundleAndroid": "com.music.instrumental.bongodrum"
+    },
+    {
+      "appName": "Drum Pad Master",
+      "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/27/45/042745cd-5b4e-2f98-6969-da17e6d066c4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/drum-pad-master/id6468879207",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.music.instrumental.drumpadmaster",
+      "appBundleIos": "com.music.instrumental.drumpadmaster",
+      "appBundleAndroid": "com.music.instrumental.drumpadmaster"
     }
   ]
 }
